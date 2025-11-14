@@ -1,0 +1,55 @@
+'''20-> basic oops ideas,inheritance,polymorphism,abstraction,
+encapsulation,file handling,exception handling'''
+
+#additional things-> numpy,pandas,imports and modules
+
+#oop:
+
+#2 ways : function base code,class base coding(oop)
+
+#class- blue print of an object
+#object- instance of a class
+
+
+
+#class class_name:
+'''def method:
+        logics
+        print() #method
+
+object= class_name()
+object.methodname()'''
+    
+    
+'''class python_session:
+    #method1
+    def participant1(hello,a,b):
+        print(a+b)
+    #method 2
+    def participant2(bye):
+        print("annaveerappa")
+    #method 3
+    def participant3(a):
+        print("avinash")
+    #method 4
+    def participant4(a):
+        print("manikumar")
+#he wants avinash       
+management=python_session()
+management.participant1(10,5)
+management.participant2()'''
+
+class nandra: 
+   def test(hello):
+      print("Hello from test method!")
+   def test3(aroppdxkjbv,c,d):
+      print(f"{c},{d},Hello from test3 function!")
+#nandra.test3('how are you')
+kalyan=nandra()
+kalyan.test3('session','python')
+
+
+
+
+
+    
